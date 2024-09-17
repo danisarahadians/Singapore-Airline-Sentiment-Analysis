@@ -6,7 +6,8 @@ This project focuses on building a sentiment analysis system for customer review
 
 ## Project Goals
 
-Accuracy Target: 80%
+Accuracy Target: 80%  
+
 F1-Score Target: 80% (balanced across classes)
 
 ## Model Performance
