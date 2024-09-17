@@ -1,0 +1,2 @@
+huggingface : https://huggingface.co/spaces/danisarahadians/Singapore_Airline_Sentiment_Analysis
+dataset : https://www.kaggle.com/datasets/kanchana1990/singapore-airlines-reviews
