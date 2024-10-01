@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on building a sentiment analysis system for customer reviews on an e-ticketing platform. The goal is to classify reviews into Positive, Neutral, and Negative categories, using machine learning techniques to achieve both high accuracy and a balanced F1-score, particularly for handling imbalanced data.
+This project focuses on building a sentiment analysis system for customer reviews on an e-ticketing platform. The goal is to classify reviews into Positive, Neutral, and Negative categories, using deep learning LSTM Models techniques to achieve both high accuracy and a balanced F1-score, particularly for handling imbalanced data.
 
 ## Project Goals
 
