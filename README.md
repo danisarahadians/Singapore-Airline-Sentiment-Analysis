@@ -24,5 +24,5 @@ Comfort: Reviews mention seat and legroom, indicating areas for improvement.
 
 Food & Entertainment: Customers value inflight meals and entertainment options.
 
-# Deployment
+## 🧑🏻‍💻 Deployment
 You can click this [link](danisarahadians/Singapore-Airlines-Sentiment-Analysis) to see the deployment results
