@@ -23,3 +23,6 @@ Service: Includes keywords like flight, airline, service, and crew.
 Comfort: Reviews mention seat and legroom, indicating areas for improvement.  
 
 Food & Entertainment: Customers value inflight meals and entertainment options.
+
+# Deployment
+You can click this [link](danisarahadians/Singapore-Airlines-Sentiment-Analysis) to see the deployment results
